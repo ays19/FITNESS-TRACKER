@@ -3,7 +3,7 @@ from .models import Workout
 from .forms import WorkoutForm
 
 # VIEW TO LIST WORKOUTS
-def workout_list(request)
+def workout_list(request):
     workout= Workout.objects.all().order_by('-date')
     return render(request, 'tracker/workout_list.html', {'workouts': workout})
 
