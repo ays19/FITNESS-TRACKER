@@ -1,6 +1,6 @@
 from django.db import models
 
-class workouts(models.Model):
+class Workout(models.Model):
     activity = models.CharField(max_length=200)
     duration = models.IntegerField(help_text="Duration in minutes")
     date = models.DateField()
