@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployment-PythonAnywhere-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/ays19/FITNESS-TRACKER?style=for-the-badge" />
@@ -18,13 +18,6 @@
 
 👉 **[Click Here to View Live Project](https://ays19.pythonanywhere.com/)**
 
----
-
-## 🎥 Project Preview
-
-<p align="center">
-  <img src="assets/demo.gif" alt="Fitness Tracker Demo" width="800"/>
-</p>
 ---
 
 ## ✨ Features
@@ -143,11 +136,11 @@ http://127.0.0.1:8000/
 ## 🚀 Future Improvements
 
 * 📈 Add charts for progress tracking
-* 
+  
 * 🤖 AI-based fitness suggestions
-* 
+  
 * 📱 Fully responsive UI
-* 
+  
 * ☁️ Cloud database integration
 
 
