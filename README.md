@@ -45,7 +45,7 @@
 
 ## 🧠 How It Works
 
-mermaid
+```mermaid
 graph TD;
     A["User Signup/Login"] --> B["Dashboard"]
     B --> C["Add Workout"]
@@ -53,7 +53,7 @@ graph TD;
     C --> E["Database (SQLite)"]
     D --> E
     E --> B
-
+```
 
 ---
 
@@ -76,7 +76,6 @@ FITNESS-TRACKER/
 │── tracker_app/         # Core application logic
 │── templates/           # HTML templates
 │── static/              # CSS, JS, assets
-│── assets/              # Screenshots & demo files
 │── db.sqlite3
 │── manage.py
 ```
@@ -130,9 +129,13 @@ http://127.0.0.1:8000/
 ## 🎯 Key Learning Outcomes
 
 ✔️ Built a complete Django full-stack application
+
 ✔️ Implemented authentication system
+
 ✔️ Mastered CRUD operations
+
 ✔️ Learned deployment workflow
+
 ✔️ Improved project structuring skills
 
 ---
@@ -140,8 +143,11 @@ http://127.0.0.1:8000/
 ## 🚀 Future Improvements
 
 * 📈 Add charts for progress tracking
+* 
 * 🤖 AI-based fitness suggestions
+* 
 * 📱 Fully responsive UI
+* 
 * ☁️ Cloud database integration
 
 
@@ -152,6 +158,7 @@ http://127.0.0.1:8000/
 **ays19**
 
 🔗 GitHub: [https://github.com/ays19](https://github.com/ays19)
+
 🌐 Live: [https://ays19.pythonanywhere.com/](https://ays19.pythonanywhere.com/)
 
 ---
@@ -161,5 +168,7 @@ http://127.0.0.1:8000/
 If this project helped or inspired you:
 
 👉 Give it a **star ⭐**
+
 👉 Share with others
+
 👉 Follow for more projects
