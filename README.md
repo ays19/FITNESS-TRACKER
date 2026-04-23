@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployment-PythonAnywhere-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/ays19/FITNESS-TRACKER?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/ays19/FITNESS-TRACKER?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -26,33 +25,35 @@
 <p align="center">
   <img src="assets/demo.gif" alt="Fitness Tracker Demo" width="800"/>
 </p>
-
-> 💡 *Tip: Upload your `.webm` as a `.gif` or keep it inside `/assets` folder for preview.*
-> 
 ---
 
 ## ✨ Features
 
 ✨ Clean & minimal user interface
+
 🔐 Secure authentication system
+
 📊 Track daily workouts & activities
+
 ✏️ Update and manage fitness records
+
 ❌ Delete records easily
+
 📱 Responsive design (if added)
 
 ---
 
 ## 🧠 How It Works
 
-```mermaid
+mermaid
 graph TD;
-    A[User Signup/Login] --> B[Dashboard]
-    B --> C[Add Workout]
-    B --> D[Update/Delete Records]
-    C --> E[Database (SQLite)]
+    A["User Signup/Login"] --> B["Dashboard"]
+    B --> C["Add Workout"]
+    B --> D["Update/Delete Records"]
+    C --> E["Database (SQLite)"]
     D --> E
     E --> B
-```
+
 
 ---
 
